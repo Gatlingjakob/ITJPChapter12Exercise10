@@ -5,7 +5,7 @@ public class ITJPchapter12exercise10 {
 
     public static void main(String[] args) {
 
-        int length = 1200000000;
+        int length = 1999999999;
 
         try {
             byte[] array = new byte[length];
